@@ -33,3 +33,9 @@
 <img align="left" alt="Firebase" width="26px" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png">
 
 <img align="left" alt="Vue.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
+
+### Github Stats
+
+<img alt="Adarsh Singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adarshsinggh&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
+<br />
+<img alt="Adarsh Singh's Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=adarshsinggh&theme=dark" />
