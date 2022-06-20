@@ -39,6 +39,9 @@
 
 ### Github Stats
 
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshsinggh&show_icons=true&locale=en&layout=compact&theme=dark" alt="adarshsinggh" />
+<br />
+
 <img alt="Adarsh Singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adarshsinggh&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
 <br />
 <img alt="Adarsh Singh's Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=adarshsinggh&theme=dark" />
