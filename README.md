@@ -6,7 +6,7 @@
 ### Languages and Tools:
 <img align="left" alt="Flutter" width="26px" src="https://iconape.com/wp-content/png_logo_vector/flutter.png" />
 
-<img align="left" alt="Java" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
+<img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/free-java-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-language-pack-logos-icons-1174953.png" />
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
